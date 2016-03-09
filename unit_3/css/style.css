@@ -1,9 +1,3 @@
-body {
-	background-color: #C8C8C8 ;
-	color: #351743;
-	text-align: center;
-}
-
 h1 {
 	color: #040652;
 	font-size: 42px;
@@ -14,11 +8,17 @@ h2 {
 	font-size: 28px;
 }
 
-#Slogan {
-     font-style: italic;
+body {
+	background-color: #C8C8C8 ;
+	color: #351743;
+	text-align: center;
 }
 
 ul {
     text-align: center;
     list-style-type: none;
+}
+
+#slogan {
+     font-style: italic;
 }
