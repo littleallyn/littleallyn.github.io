@@ -1,0 +1,81 @@
+@import url(https://fonts.googleapis.com/css?family=Fredericka+the+Great|Gentium+Book+Basic|Amatic+SC:700);
+
+div {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;	
+}
+
+section {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;	
+}
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+aside {
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;	
+}
+
+h1 {
+	font-family: 'Fredericka the Great', cursive;
+	color: #040652;
+	font-size: 58px;
+}
+
+h2, h3 {
+	color: #040652;
+	font-size: 26px;
+}
+
+body {
+	background-color: #C8C8C8 ;
+	color: #351743;
+	text-align: center;
+	line-height: 1.5em;
+	margin: 30px;
+}
+
+p {
+	font-family: 'Gentium Book Basic', serif;
+	text-align: center;
+	line-height: 1.5em;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+    padding: 0;
+}
+
+#slogan {
+     font-family: 'Amatic SC', cursive;
+     font-style: italic;
+     font-size: 42px;
+     letter-spacing: 1px;
+}
