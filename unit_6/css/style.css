@@ -13,7 +13,7 @@ section {
 }
 
 header {
-	background-color: #FFED74;
+	background-color: #FFFFFF;
 	border: 1px black solid;
 	padding: 20px;
 }
@@ -45,12 +45,12 @@ footer {
 h1 {
 	font-family: 'Fredericka the Great', cursive;
 	color: #040652;
-	font-size: 58px;
+	font-size: 70px;
 }
 
 h2, h3 {
 	color: #040652;
-	font-size: 26px;
+	font-size: 38px;
 }
 
 body {
@@ -65,6 +65,7 @@ p {
 	font-family: 'Gentium Book Basic', serif;
 	text-align: center;
 	line-height: 1.5em;
+	font-size: 20px;
 }
 
 ul {
@@ -76,30 +77,30 @@ ul {
 #slogan {
      font-family: 'Amatic SC', cursive;
      font-style: italic;
-     font-size: 42px;
+     font-size: 50px;
      letter-spacing: 1px;
 }
 
-#two-column {
+#introduction {
 	background-color: #FFB7CF;
 	border: 1px black solid;
 	padding: 20px;
 }
 
-#left {
+#intro-left {
 	background-color: violet;
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
-	width: 30%;
+	width: 27%;
 }
 
-#right {
+#intro-right {
 	background-color: pink;
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
-	width: 62%;
+	width: 65%;
 }
 
 .clearfix:after {
@@ -109,4 +110,30 @@ ul {
 	content: " ";
 	clear: both;
 	height: 0;
+}
+
+#blogpost-leftpic {
+	padding: 15px;
+	float: left;
+	width: 20%;
+}
+
+#blogpost-leftwords {
+	background-color: violet;
+	padding: 15px;
+	float: left;
+	width: 25%;
+}
+
+#blogpost-rightpic {
+	padding: 15px;
+	float: left;
+	width: 20%;
+}
+
+#blogpost-rightwords {
+	background-color: pink;
+	padding: 15px;
+	float: left;
+	width: 25%;
 }
